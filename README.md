@@ -8,7 +8,7 @@ This project is for **educational purposes only** and is **not affiliated with N
 
 ## Demo
 
-You can view the live demo here: [Netflix Clone Live](http://hardik212007.github.io/Netflix-Clone-Live/index.html)  
+You can view the live demo here: [Netflix Clone Live](https://hardik212007.github.io/Netflix-Clone-Live/index.html)  
 > ⚠️ This project is a personal learning project. Some browsers may flag it as potentially unsafe because it resembles Netflix’s interface.  
 
 ---
