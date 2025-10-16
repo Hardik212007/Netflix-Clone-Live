@@ -6,12 +6,16 @@ This project is for **educational purposes only** and is **not affiliated with N
 
 ---
 
-## Demo
+## Live Demo
 
+<<<<<<< HEAD
 You can view the live demo here: [Netflix Clone Live]((https://netflix-clone-live-git-main-hardik-s-projects-ec3566fe.vercel.app))  
 > ⚠️ This project is a personal learning project. Some browsers may flag it as potentially unsafe because it resembles Netflix’s interface.  
+=======
+Check out the live version of this project here:  
+[Netflix Clone Live](https://netflix-clone-live-git-main-hardik-s-projects-ec3566fe.vercel.app)
+>>>>>>> c8ed6c5 (Added live Vercel demo link)
 
----
 
 ## Features
 
